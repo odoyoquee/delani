@@ -62,14 +62,14 @@
       background-image: url(./images/backgrounds/s_image.jpg);
       padding: 50px;
     }
-    .portfolio{
+    #portfolio{
       padding: 50px;
     }
     .portfolio img{
       padding: 50px;
       margin: 50px;
     }
-    .contact{
+    #contact{
       background-image: url(./images/backgrounds/c_image.jpg);
       padding: 50px;
     }
