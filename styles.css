@@ -6,6 +6,7 @@
       background-image: url('./images/backgrounds/h_img.jpg');
       background-size: 100%;
       background-repeat: no-repeat;
+      width:100%;
   }
   html {
       /* scroll-behavior: smooth; */
