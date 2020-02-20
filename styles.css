@@ -1,82 +1,53 @@
-*{
-    margin: 0;
-    padding: 0;
-  }
-  #home{
-      background-image: url('./images/backgrounds/h_img.jpg');
-      background-size: 100%;
-      background-repeat: no-repeat;
-      width:100%;
-  }
-  html {
-      /* scroll-behavior: smooth; */
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-      overflow-x: hidden;
-      width:100%;
-      height: 100%;
-    }
-    body {
-      font-family: sans-serif;
-      margin: 0;
-      padding: 0;
-      font-weight: 400;
-      line-height: 1.5;
-      color:white;
-      width:100%;
-      text-align: center;
-      height: 100%;
-    }
-    .container{
-      width:100%;
-      margin-bottom: 50px;
-    }
-    /*.home{
-      background-image: url(./assets/backgrounds/h_img.jpg);
-      background-position: center;
-      background-size: cover;
-      background-repeat: no-repeat;
-      padding: 40px;
-    }*/
-    .logo{
-      padding:70px;
-    }
-    .mouse{
-      padding:40px;
-    }
-    .home h1,h3{
-    padding: 5px;
-    }
-    .home p{
-      padding: 15px;
-    }
-    .about{
-      color: black;
-      padding: 50px;
-    }
-    #wedo{
-      color: black;
-      padding: 50px;
-    }
-    #services{
-      background-image: url(./images/backgrounds/s_image.jpg);
-      padding: 50px;
-    }
-    #portfolio{
-      padding: 50px;
-    }
-    .portfolio img{
-      padding: 50px;
-      margin: 50px;
-    }
-    #contact{
-      background-image: url(./images/backgrounds/c_image.jpg);
-      padding: 50px;
-    }
-    .button{
-      border-radius: 15px;
-    }
-    footer{
-      color: black;
-    }
+body{
+  color:white;
+  padding:0;
+  margin: 0;font-family: sans-serif;
+  font-weight: 800px;
+
+}
+
+#home{
+  background-image: url('./images/backgrounds/h_img.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width:100%;
+  padding:80px;
+}
+#mouse{
+  padding:50px;
+}
+#logo{
+  padding: 20px;
+}
+#welcome{
+  padding: 20px;
+}
+#del{
+ margin-top: 60px;
+}
+#about{
+  color: black;
+}
+#services{
+  background-image: url('./images/backgrounds/s_image.jpg');
+  padding: 60px;
+}
+
+.wedo{
+  padding: 50px;
+}
+
+.table{
+  padding-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.caption{
+  font-size: 12px;
+}
+
+
+#magic1,#magic2,#magic3{
+ display: none;
+}
