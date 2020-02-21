@@ -13,6 +13,9 @@ body{
   width:100%;
   padding:80px;
 }
+#bounce{
+  animation: bounce 2s infinite;
+}
 #mouse{
   padding:50px;
 }
@@ -43,12 +46,12 @@ body{
   margin-right: 20px;
 }
 
-.caption{
-  font-size: 12px;
+.vate{
+  font-size: 20px;
 }
 
 
-#magic1,#magic2,#magic3{
+#design1,#design2,#design3{
  display: none;
 }
 
@@ -106,4 +109,8 @@ div.contact-btn button {
 
 div.contact-btn button:hover {
   border: 2px solid #fff;
+}
+
+.toast-body{
+  display: none;
 }

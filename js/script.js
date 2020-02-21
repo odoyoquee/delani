@@ -1,54 +1,26 @@
 $(document).ready(function () {
-    $(".onCrack1").click(function () {
-        $("#click1").toggle();
-        $("#magic1").toggle();
+    $(".cracker1").click(function () {
+        $("#calc1").toggle();
+        $("#design1").toggle();
     });
 
-    $(".onCrack2").click(function () {
-        $("#magic2").toggle();
-        $("#click2").toggle();
+    $(".cracker2").click(function () {
+        $("#design2").toggle();
+        $("#calc2").toggle();
     });
-    $(".onCrack3").click(function () {
-        $("#magic3").toggle();
-        $("#click3").toggle();
+    $(".cracker3").click(function () {
+        $("#design3").toggle();
+        $("#calc3").toggle();
     });
 });
 
-function alert() {
-    alert('this works');
-}
-
-// var btn = document.getElementById("myBtn");
-
-// // When the user clicks on the button, open the modal
-// btn.onclick = function(event) {
-//     // Validate form for entry
-//     var x = document.forms["myForm"]["contact-name"].value;
-//     if (x == "") {
-//         alert("Name not entered");
-//         return false;
-//     }
-//     var y = document.forms["myForm"]["contact-email"].value;
-//     if (y == "") {
-//         alert("Email not entered");
-//         return false;
-//     }
-//     var z = document.forms["myForm"]["contact-message"].value;
-//     if (z == "") {
-//         alert("You have no message to send");
-//         return false;
-//     }
-//     var person1Input = $("input#contact-name").val();
-//     $("span#outputName").append(person1Input);
-
-//     $('.toast').toast('show');
-//     event.preventDefault();
-// }
 
 
+var btn = document.getElementById("myBtn");
 
-function valid() {
-
+// When the user clicks on the button, open the modal
+btn.onclick = function(event) {
+    // Validate form for entry
     var x = document.forms["myForm"]["contact-name"].value;
     if (x == "") {
         alert("Name not entered");
@@ -62,13 +34,16 @@ function valid() {
     var z = document.forms["myForm"]["contact-message"].value;
     if (z == "") {
         alert("You have no message to send");
-        return false
+        return false;
     }
     var person1Input = $("input#contact-name").val();
     $("span#outputName").append(person1Input);
-    $('.toast').toast('show');
-    event.preventDefault();
+    $(".toast-body").show();
 }
+
+
+
+
 // $(document).ready(function() {
 //     $("div.image-frame").hover(function() {
 //         $("mask flex-center rgba-red-strong");
