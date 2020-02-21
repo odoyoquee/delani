@@ -55,14 +55,14 @@ body{
  display: none;
 }
 
-.section6 {
+.six {
   padding-top: 35px;
   padding-bottom: 40px;
   background-image: url('./images/backgrounds/c_image.jpg');
   background-repeat: no-repeat;
 }
 
-.text-section6 {
+.text-six {
   color: white;
   font-size: 12px;
 }
