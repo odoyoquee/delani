@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
  # Project Name
 - AKAN NAMES
 ## Project description
@@ -23,4 +21,3 @@ There are no known bugs.
 
 ## Contact Information
 Email address:odoyograce23@gmail.com
->>>>>>> development
