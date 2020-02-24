@@ -7,3 +7,9 @@ The project is about a fictional studio called delani which consists of
 -what we do section
 -portfolio
 -contact us
+## Technologies Used
+- HTML5
+- CSS3
+- Bootstrap
+- Javascript
+- JQuery
