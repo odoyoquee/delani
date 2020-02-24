@@ -60,11 +60,12 @@ body{
   padding-bottom: 40px;
   background-image: url('./images/backgrounds/c_image.jpg');
   background-repeat: no-repeat;
+  color: #fff;
 }
 
 .text-six {
   color: white;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 .myForm-input {
@@ -83,6 +84,7 @@ html {
 form.contact-us {
   background: transparent;
   padding-top: 20px;
+  color: #fff;
 }
 
 form.contact-us input,
@@ -97,6 +99,7 @@ div.contact-btn button {
 
 input.contact-email {
   margin-left: 240px;
+  color: #fff;
 }
 
 div.contact-btn button {
@@ -113,4 +116,7 @@ div.contact-btn button:hover {
 
 .toast-body{
   display: none;
+}
+#portfolio{
+  color:black;
 }
