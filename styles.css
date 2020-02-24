@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *{
     margin: 0;
     padding: 0;
@@ -60,7 +60,7 @@
       padding: 50px;
     }
     #services{
-      background-image: url(./images/backgrounds/s_image.jpg);
+      background-image: url('./images/backgrounds/s_image.jpg');
       padding: 50px;
     }
     #portfolio{
@@ -71,16 +71,15 @@
       margin: 50px;
     }
     #contact{
-      background-image: url(./images/backgrounds/c_image.jpg);
+      background-image: url('./images/backgrounds/c_image.jpg');
       padding: 50px;
     }
     .button{
       border-radius: 15px;
     }
     footer{
-      color: black;
-    }
-=======
+        color: black;
+}
 body{
   color:white;
   padding:0;
@@ -203,8 +202,3 @@ div.contact-btn button:hover {
 #portfolio{
   color:black;
 }
-
-<<<<<<< HEAD
->>>>>>> 7c66fbbe8ffbb782f7987582b2f5d1118285bcb2
-=======
->>>>>>> master
