@@ -60,7 +60,7 @@ body{
   padding-bottom: 40px;
   background-image: url('./images/backgrounds/c_image.jpg');
   background-repeat: no-repeat;
-  color: #fff;
+  color:white;
 }
 
 .text-six {
@@ -120,3 +120,4 @@ div.contact-btn button:hover {
 #portfolio{
   color:black;
 }
+

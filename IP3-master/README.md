@@ -10,10 +10,14 @@ The project is about a fictional studio called delani which consists of
 - Contact Us
 - Footer
 ## Technologies Used
-- HTML5
-- CSS3
-- Bootstrap
-- Javascript
-- JQuery
++ HTML5
++ CSS3
++ Bootstrap
++ Javascript
++ JQuery
 ## Known bugs
 There are no known bugs.
+## Live links
+
+## Contact Information
+Email address:odoyograce23@gmail.com
