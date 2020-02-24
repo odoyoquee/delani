@@ -60,7 +60,7 @@
       padding: 50px;
     }
     #services{
-      background-image: url(./images/backgrounds/s_image.jpg);
+      background-image: url('./images/backgrounds/s_image.jpg');
       padding: 50px;
     }
     #portfolio{
@@ -71,7 +71,7 @@
       margin: 50px;
     }
     #contact{
-      background-image: url(./images/backgrounds/c_image.jpg);
+      background-image: url('./images/backgrounds/c_image.jpg');
       padding: 50px;
     }
     .button{
