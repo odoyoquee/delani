@@ -28,7 +28,3 @@ Email address:odoyograce23@gmail.com
 ## LICENSE
 
 https://opensource.org/licenses/MIT
-<<<<<<< HEAD
-
-=======
->>>>>>> 6cea86560eaeeb4418769a16fb66d319dec7901c
