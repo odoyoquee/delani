@@ -1,5 +1,5 @@
  # Project Name
--Delani Studios
+- Delani Studios
 ## Project description
 The project is about a fictional studio called delani which consists of 
 - Cover page
