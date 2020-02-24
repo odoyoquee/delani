@@ -19,7 +19,7 @@ $(document).ready(function () {
 var btn = document.getElementById("myBtn");
 
 // When the user clicks on the button, open the modal
-btn.onclick = function(event) {
+btn.onclick = function (event) {
     // Validate form for entry
     var x = document.forms["myForm"]["contact-name"].value;
     if (x == "") {
