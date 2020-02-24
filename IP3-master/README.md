@@ -21,11 +21,7 @@ There are no known bugs.
 
 ## Contact Information
 Email address:odoyograce23@gmail.com
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 7c66fbbe8ffbb782f7987582b2f5d1118285bcb2
-=======
->>>>>>> development
->>>>>>> master
-=======
->>>>>>> master
+
+## LICENSE
+
+https://opensource.org/licenses/MIT
